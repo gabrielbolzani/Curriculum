@@ -19,9 +19,9 @@
 
 ## 👤 Perfil Profissional
 
-Engenheiro de Controle e Automação **hands-on**, com atuação em desenvolvimento de **software embarcado, eletrônica, elétrica e prototipagem rápida**. Experiência sólida em **sistemas embarcados, IoT, DevOps e nuvem**, aliada à prática em **soldagem, montagem de PCBs, impressão 3D e integração de hardware**.
+Engenheiro de Controle e Automação hands-on, com experiência em sistemas embarcados, eletrônica, automação, infraestrutura de TI e desenvolvimento de produtos. Atuação em todas as etapas do desenvolvimento, desde a concepção da solução até a validação em campo.
 
-Perfil **maker**, adaptável e multidisciplinar, capaz de transitar entre **código, hardware, infraestrutura, redes e computadores**, entregando soluções completas, robustas e escaláveis.
+Perfil maker, adaptável e multidisciplinar, capaz de transitar entre software, hardware, eletrônica, redes e fabricação, entregando soluções completas, robustas e escaláveis.
 
 ---
 
