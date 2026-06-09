@@ -1,10 +1,12 @@
 # Gabriel Forza Juliatti Bolzani
 
-📍 Colatina / Vitória – ES  
-📧 gabriel.bolzani@hotmail.com  
-📞 (27) 99951-4334  
-🔗 [LinkedIn](https://www.linkedin.com/in/gabrielbolzani/)  
-💻 [GitHub](https://github.com/gabrielbolzani)
+</br>
+
+- 📍 Colatina / Vitória – ES
+- 📧 gabriel.bolzani@hotmail.com
+- 📞 [(27) 99951-4334](https://wa.me/5527999514334?text=Olá%20Gabriel,%20Achei%20seu%20curriculo%20fantástico,%20vamos%20conversar%3F!)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gabrielbolzani/)
+- 💻 [GitHub](https://github.com/gabrielbolzani)
 
 ---
 
@@ -30,17 +32,23 @@ Perfil **maker**, adaptável e multidisciplinar, capaz de transitar entre **cód
 ### Desenvolvedor de Sistemas Embarcados
 **LUME Robotics** · Ago 2024 – Atual
 
-- Desenvolvimento e manutenção de sistemas embarcados para **veículos autônomos**.
-- Comunicação **LoRa** entre veículos e equipamentos externos, incluindo implementação de **protocolos TDMA**.
-- Programação de **PLCs**, com foco em **Texto Estruturado (ST)** para automação industrial.
-- Programação em **ESP32**, utilizando **FreeRTOS**, multitarefa e arquitetura **dual-core**.
-- Integração de sensores, atuadores e barramentos de comunicação (**CAN, UART, SPI, I²C**).
-- Prototipagem completa: **design de PCBs com KiCad**, montagem, soldagem (**SMD/PTH**) e validação.
-- Criação de módulos de software e scripts de teste com **Python**, **VS Code** e **Linux**.
-- Implementação de **controle PID** aplicado a sistemas embarcados.
-- Versionamento e manutenção de código com **Git**.
-- Testes de bancada, validação de componentes e integração **hardware/software**.
-- Impressão **3D** aplicada a protótipos funcionais.
+- Desenvolvimento de soluções para veículos autônomos e equipamentos industriais. 
+- Desenvolvimento e manutenção de software em ambiente **Linux**, utilizando **Git** para controle de versão e gestão colaborativa do código. 
+- Desenvolvimento de protocolos proprietários de comunicação utilizando **CAN Bus, LoRa, UART, SPI e I²C**. 
+- Análise, diagnóstico e engenharia reversa de redes **CAN**, incluindo identificação de sinais, integração com módulos eletrônicos e desenvolvimento de funcionalidades veiculares. 
+- Integração e automação aplicada a plataformas Mercedes-Benz, Scania, Renault, Peugeot, Tramontina e outros veículos comerciais e industriais. 
+- Implementação de aplicações em **C/C++** para ESP32, utilizando **FreeRTOS**, multitarefa e arquitetura dual-core. 
+- Implementação de redes LoRa com sincronização de dispositivos através de protocolos TDMA. 
+- Desenvolvimento de ferramentas de teste, validação e diagnóstico utilizando **Python**. 
+- Integração de sensores, atuadores, sistemas de potência e dispositivos eletrônicos. 
+- Implementação e ajuste de algoritmos de controle, incluindo controladores PID. 
+- Programação de PLCs utilizando **Texto Estruturado (IEC 61131-3)**. 
+- Projeto eletrônico utilizando **KiCad**, incluindo esquemáticos, layout de PCBs e acompanhamento da fabricação. 
+- Montagem, soldagem e validação de placas eletrônicas SMD e PTH. 
+- Desenvolvimento e fabricação de componentes, dispositivos e produtos finais utilizando **impressão 3D**. 
+- Desenvolvimento de **documentação de engenharia**, incluindo diagramas elétricos, esquemas funcionais, e documentação de fabricação. 
+- Execução de testes de bancada, validações em campo e investigação de falhas. 
+- Participação em todas as etapas do desenvolvimento, desde a concepção da solução até a validação final em campo.
 
 ---
 
