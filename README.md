@@ -19,12 +19,11 @@
 
 ## 👤 Perfil Profissional
 
-Engenheiro de Controle e Automação hands-on, com experiência em sistemas embarcados, eletrônica, automação, infraestrutura de TI e desenvolvimento de produtos. Atuação em todas as etapas do desenvolvimento, desde a concepção da solução até a validação em campo.
+Engenheiro de Controle e Automação com perfil hands-on, atuando no desenvolvimento de sistemas embarcados, eletrônica e automação para aplicações automotivas e industriais. Experiência em desenvolvimento de produtos, integração de hardware e software e prototipagem rápida.
 
-Perfil maker, adaptável e multidisciplinar, capaz de transitar entre software, hardware, eletrônica, redes e fabricação, entregando soluções completas, robustas e escaláveis.
+Perfil maker, adaptável e multidisciplinar, com facilidade para transitar entre firmware, hardware, eletrônica e software, entregando soluções completas, robustas e escaláveis.
 
 ---
-
 
 
 ## 💼 Experiência Profissional
@@ -32,23 +31,23 @@ Perfil maker, adaptável e multidisciplinar, capaz de transitar entre software, 
 ### Desenvolvedor de Sistemas Embarcados
 **LUME Robotics** · Ago 2024 – Atual
 
-- Desenvolvimento de soluções para veículos autônomos e equipamentos industriais. 
-- Desenvolvimento e manutenção de software em ambiente **Linux**, utilizando **Git** para controle de versão e gestão colaborativa do código. 
-- Desenvolvimento de protocolos proprietários de comunicação utilizando **CAN Bus, LoRa, UART, SPI e I²C**. 
-- Análise, diagnóstico e engenharia reversa de redes **CAN**, incluindo identificação de sinais, integração com módulos eletrônicos e desenvolvimento de funcionalidades veiculares. 
-- Integração e automação aplicada a plataformas Mercedes-Benz, Scania, Renault, Peugeot, Tramontina e outros veículos comerciais e industriais. 
-- Implementação de aplicações em **C/C++** para ESP32, utilizando **FreeRTOS**, multitarefa e arquitetura dual-core. 
-- Implementação de redes LoRa com sincronização de dispositivos através de protocolos TDMA. 
-- Desenvolvimento de ferramentas de teste, validação e diagnóstico utilizando **Python**. 
-- Integração de sensores, atuadores, sistemas de potência e dispositivos eletrônicos. 
-- Implementação e ajuste de algoritmos de controle, incluindo controladores PID. 
-- Programação de PLCs utilizando **Texto Estruturado (IEC 61131-3)**. 
-- Projeto eletrônico utilizando **KiCad**, incluindo esquemáticos, layout de PCBs e acompanhamento da fabricação. 
-- Montagem, soldagem e validação de placas eletrônicas SMD e PTH. 
-- Desenvolvimento e fabricação de componentes, dispositivos e produtos finais utilizando **impressão 3D**. 
-- Desenvolvimento de **documentação de engenharia**, incluindo diagramas elétricos, esquemas funcionais, e documentação de fabricação. 
-- Execução de testes de bancada, validações em campo e investigação de falhas. 
-- Participação em todas as etapas do desenvolvimento, desde a concepção da solução até a validação final em campo.
+- Desenvolvimento de soluções para veículos autônomos, equipamentos industriais e sistemas embarcados de alto desempenho.
+- Desenvolvimento e manutenção de software embarcado em C/C++ e aplicações em ambiente Linux, utilizando Git para controle de versão e desenvolvimento colaborativo.
+- Desenvolvimento de firmware para ESP32 utilizando FreeRTOS, multitarefa, arquitetura dual-core e comunicação em tempo real.
+- Desenvolvimento de protocolos proprietários de comunicação utilizando CAN Bus, LoRa, Ethernet, UART, SPI e I²C.
+- Implementação de redes LoRa para telemetria e controle, incluindo sincronização de dispositivos através de protocolos TDMA.
+- Análise, diagnóstico e engenharia reversa de redes CAN, incluindo identificação de sinais, integração com módulos eletrônicos e desenvolvimento de funcionalidades veiculares.
+- Integração e automação aplicada a plataformas Mercedes-Benz, Scania, Renault, Peugeot, Tramontina e outros veículos comerciais e industriais.
+- Desenvolvimento de ferramentas de teste, automação, validação e diagnóstico utilizando Python.
+- Integração de sensores, atuadores, sistemas de potência, módulos GNSS/GPS, dispositivos eletrônicos e barramentos de comunicação.
+- Implementação, ajuste e validação de algoritmos de controle, incluindo controladores PID.
+- Programação de PLCs utilizando Texto Estruturado (Structured Text – IEC 61131-3).
+- Projeto eletrônico utilizando KiCad, incluindo captura de esquemáticos, layout de PCBs, seleção de componentes, acompanhamento da fabricação e validação de hardware.
+- Montagem, solda e validação de placas eletrônicas SMD e PTH.
+- Desenvolvimento de dispositivos, componentes e protótipos funcionais utilizando impressão 3D.
+- Elaboração de documentação técnica de engenharia, incluindo diagramas elétricos, esquemas funcionais, documentação de fabricação e procedimentos de teste.
+- Execução de testes de bancada, validações em campo, depuração e investigação de falhas em hardware e software.
+Participação em todas as etapas do desenvolvimento de produtos, desde a concepção da solução e definição da arquitetura até a validação final em campo.
 
 ---
 
