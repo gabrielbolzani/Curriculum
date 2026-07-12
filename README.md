@@ -40,7 +40,8 @@ Perfil maker, adaptável e multidisciplinar, com facilidade para transitar entre
 - **Prototipagem Física & Documentação**: Modelagem e fabricação de peças mecânicas e gabinetes via **impressão 3D**, além da elaboração de diagramas funcionais, esquemas elétricos e procedimentos de teste para rastreabilidade do produto.
 
 ---
-<div class="page-break"></div>
+
+
 
 ### DevOps Engineer
 **BuyBye | Zaitt** · Ago 2023 – Ago 2024
@@ -88,7 +89,8 @@ Perfil maker, adaptável e multidisciplinar, com facilidade para transitar entre
 - **Documentação de Processo**: Elaboração de diagramas de processo e instruções de montagem para a linha de produção, além de orçamentos e listas de compras de insumos laboratoriais.
 
 ---
-<div class="page-break"></div>
+
+
 
 ### Professor de Programação e Robótica
 **Ctrl+Play – Serra** · Ago 2018 – Dez 2019

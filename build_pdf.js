@@ -38,6 +38,17 @@ if (contactMatch) {
   finalHtmlBody = finalHtmlBody.replace(/<p>\s*<br>\s*<\/p>/g, '');
 }
 
+// 2.5 Envolve cada bloco de cargo/projeto em um container para evitar quebras de página internas e órfãs
+finalHtmlBody = finalHtmlBody.replace(/<h3>[\s\S]*?(?=(?:<h3|<h2|<hr>|$))/g, (match) => {
+  return `<div class="avoid-break">${match.trim()}</div>`;
+});
+
+// 2.6 Inserir quebra de página antes da seção "Projetos & Contribuições Open Source"
+finalHtmlBody = finalHtmlBody.replace(
+  /(<h2>🚀 Projetos &amp; Contribuições Open Source<\/h2>)/i,
+  `<div class="page-break"></div>$1`
+);
+
 // 3. Monta o documento HTML completo com CSS premium para impressão
 const pageTitle = "Currículo - Gabriel Forza Juliatti Bolzani";
 const fullHtmlContent = `<!DOCTYPE html>
@@ -151,6 +162,12 @@ const fullHtmlContent = `<!DOCTYPE html>
       gap: 4px;
     }
     
+    /* Prevenção de quebra de bloco de experiência */
+    .avoid-break {
+      page-break-inside: avoid;
+      break-inside: avoid;
+    }
+    
     /* Ajustes específicos para impressão */
     @page {
       size: A4;
@@ -169,6 +186,14 @@ const fullHtmlContent = `<!DOCTYPE html>
         height: 0;
         margin: 0;
         border: none;
+      }
+      .avoid-break {
+        page-break-inside: avoid !important;
+        break-inside: avoid !important;
+      }
+      h1, h2, h3, h4, h5, h6 {
+        page-break-after: avoid !important;
+        break-after: avoid !important;
       }
     }
   </style>
