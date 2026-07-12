@@ -31,105 +31,78 @@ Perfil maker, adaptável e multidisciplinar, com facilidade para transitar entre
 ### Desenvolvedor de Sistemas Embarcados
 **LUME Robotics** · Ago 2024 – Atual
 
-- Desenvolvimento de soluções para veículos autônomos, equipamentos industriais e sistemas embarcados de alto desempenho.
-- Desenvolvimento e manutenção de software embarcado em C/C++ e aplicações em ambiente Linux, utilizando Git para controle de versão e desenvolvimento colaborativo.
-- Desenvolvimento de firmware para ESP32 utilizando FreeRTOS, multitarefa, arquitetura dual-core e comunicação em tempo real.
-- Desenvolvimento de protocolos proprietários de comunicação utilizando CAN Bus, LoRa, Ethernet, UART, SPI e I²C.
-- Implementação de redes LoRa para telemetria e controle, incluindo sincronização de dispositivos através de protocolos TDMA.
-- Análise, diagnóstico e engenharia reversa de redes CAN, incluindo identificação de sinais, integração com módulos eletrônicos e desenvolvimento de funcionalidades veiculares.
-- Integração e automação aplicada a plataformas Mercedes-Benz, Scania, Renault, Peugeot, Tramontina e outros veículos comerciais e industriais.
-- Desenvolvimento de ferramentas de teste, automação, validação e diagnóstico utilizando Python.
-- Integração de sensores, atuadores, sistemas de potência, módulos GNSS/GPS, dispositivos eletrônicos e barramentos de comunicação.
-- Implementação, ajuste e validação de algoritmos de controle, incluindo controladores PID.
-- Programação de PLCs utilizando Texto Estruturado (Structured Text – IEC 61131-3).
-- Projeto eletrônico utilizando KiCad, incluindo captura de esquemáticos, layout de PCBs, seleção de componentes, acompanhamento da fabricação e validação de hardware.
-- Montagem, solda e validação de placas eletrônicas SMD e PTH.
-- Desenvolvimento de dispositivos, componentes e protótipos funcionais utilizando impressão 3D.
-- Elaboração de documentação técnica de engenharia, incluindo diagramas elétricos, esquemas funcionais, documentação de fabricação e procedimentos de teste.
-- Execução de testes de bancada, validações em campo, depuração e investigação de falhas em hardware e software.
-Participação em todas as etapas do desenvolvimento de produtos, desde a concepção da solução e definição da arquitetura até a validação final em campo.
+- **Software Embarcado & Linux**: Desenvolvimento e manutenção de software em **C/C++** e aplicações em ambiente **Linux** para veículos autônomos e sistemas embarcados de alto desempenho, utilizando Git para controle de versão e desenvolvimento colaborativo.
+- **Desenvolvimento de Firmware (RTOS)**: Projeto de firmware para **ESP32** utilizando **FreeRTOS** (multitarefa, arquitetura dual-core) focado em telemetria, comunicação em tempo real e robustez de hardware.
+- **Protocolos & Redes CAN Bus**: Engenharia reversa, análise e diagnóstico de redes **CAN Bus** para integração de funcionalidades com módulos originais de veículos comerciais (Mercedes-Benz, Scania, Renault, Peugeot, Tramontina), além de protocolos proprietários em barramentos UART, SPI, I²C, Ethernet e redes sem fio (**LoRa** com sincronização via TDMA).
+- **Projeto de Hardware & Cabos**: Desenvolvimento de placas no **KiCad** (captura de esquemáticos, layout de PCBs multicamadas e seleção de componentes), soldagem de protótipos (**SMD e PTH**), além de projeto, montagem e integração de **chicotes elétricos (harnesses)** e cabeamento de distribuição de potência veicular.
+- **Validação, Testes & Controle**: Implementação de algoritmos de controle (**PID**), integração de sensores (módulos GPS, atuadores, potência) e criação de ferramentas em **Python** para automação de testes, validações e investigações de falhas em bancada e campo.
+- **Automação Industrial (CLP)**: Programação de controladores lógicos programáveis (PLCs) em **Texto Estruturado (Structured Text – IEC 61131-3)** para controle de equipamentos industriais.
+- **Prototipagem Física & Documentação**: Modelagem e fabricação de peças mecânicas e gabinetes via **impressão 3D**, além da elaboração de diagramas funcionais, esquemas elétricos e procedimentos de teste para rastreabilidade do produto.
 
 ---
 
 ### DevOps Engineer
 **BuyBye | Zaitt** · Ago 2023 – Ago 2024
 
-- Desenvolvimento de **scripts de automação** e **APIs RESTful** em **Python (Flask)**.
-- Criação de aplicações **low-code** para integrações rápidas.
-- Implantação e administração de **bancos de dados SQL**.
-- Implementação de **observabilidade e monitoramento**, com alertas automáticos via **WhatsApp** e **Telegram**.
-- Gestão de redes corporativas com **pfSense** e **VPNs site-to-site**.
-- Administração de servidores **Linux** e **Windows** na **Azure**.
-- Gerenciamento de domínios e serviços legados na **AWS**.
-- Estruturação de **microsserviços em Docker**, promovendo padronização e escalabilidade.
-- Liderança do time de embarcados, utilizando **metodologias ágeis** e entregas semanais.
-- Administração do **Microsoft 365** e serviços de e-mail corporativo.
-- Manutenção e suporte a **sistemas legados críticos**.
+- **Automação e APIs**: Desenvolvimento de **scripts de automação** e **APIs RESTful** em **Python (Flask)**, além de integrações rápidas com plataformas low-code.
+- **Infraestrutura Cloud & On-Premise**: Administração de servidores **Linux** e **Windows** na **Azure** e gerência de serviços legados e redes corporativas na **AWS** (Lightsail, EC2, IAM, Route 53).
+- **Segurança de Rede & Conectividade**: Configuração e gestão de redes corporativas com **pfSense** e implementação de **VPNs site-to-site**.
+- **Conteinerização & Microsserviços**: Estruturação e deploy de microsserviços em **Docker**, promovendo padronização e escalabilidade no ambiente de desenvolvimento e produção.
+- **Observabilidade**: Implementação de sistemas de monitoramento com **alertas automáticos** via WhatsApp e Telegram, **reduzindo o tempo de resposta a incidentes críticos**.
+- **Gestão de Transição & Fusão**: Liderança interina da equipe técnica de embarcados durante o processo de fusão entre as duas empresas, garantindo a sustentação de sistemas legados críticos e a transição segura da infraestrutura de TI.
 
 ---
 
 ### Tech Leader – Embarcados
 **Zaitt Smart Store** · Fev 2022 – Ago 2023
 
-- Liderança de equipe técnica **N2/N3**, com foco em desempenho e evolução técnica.
-- Criação de **KPIs**, relatórios operacionais e métricas de desempenho.
-- Implementação de processos de **melhoria contínua**.
-- Padronização de equipamentos de loja (câmeras, **NVRs**, nobreaks, sensores e atuadores).
-- Administração de redes corporativas (matriz e franqueados).
-- Configuração de **VPNs**, redundâncias e diagnósticos preventivos.
-- Desenvolvimento de automações utilizando plataformas **low-code**.
-- Integração entre **MySQL**, **Webhooks**, **ClickUp**, **Freshdesk**, **Uptime Kuma**, **SMTP** e **Telegram**.
-- Gestão de servidores **on-premise** e **AWS** (**Lightsail**, **EC2**, **IAM**, **Route 53**).
+- **Liderança Técnica (N2/N3)**: Gestão de equipe técnica multidisciplinar com foco na estabilidade e sustentação de lojas inteligentes (**smart stores**), promovendo estabilidade das lojas, e evolução técnica interna do time.
+- **Melhoria Contínua & KPIs**: Criação e acompanhamento de **KPIs operacionais** e relatórios de SLA, **otimizando o tempo de resposta a incidentes** e a eficiência das equipes de suporte.
+- **Padronização de Hardware**: Homologação e padronização dos equipamentos de automação e segurança das lojas (câmeras, **NVRs**, nobreaks, sensores e atuadores) para garantir a estabilidade física das unidades.
+- **Redes & Conectividade**: Administração e suporte de redes corporativas (matriz e franqueados), configurando **VPNs** seguras, links redundantes e diagnósticos preventivos de conectividade.
+- **Automação & Integração**: Desenvolvimento de automações e fluxos **low-code** integrando MySQL, Webhooks, APIs e ferramentas como **ClickUp**, **Freshdesk**, **Uptime Kuma** e Telegram para notificação em tempo real de falhas críticas.
+- **Infraestrutura Cloud & On-Premise**: Gestão de servidores locais (**on-premise**) e serviços na nuvem da **AWS** (Lightsail, EC2, IAM, Route 53) para suporte aos microsserviços das lojas autónomas.
 
 ---
 
-### Líder de Produção / Operação
+### Líder de Produção / Operação (Promovido)
 **Sigmais IoT** · Jan 2021 – Mar 2022
 
-- Planejamento e controle da produção de equipamentos **IoT**.
-- Gestão de manutenções, compras e insumos.
-- Liderança de equipe e acompanhamento de desempenho operacional.
-- Criação e monitoramento de **KPIs operacionais**.
-- Controle de receitas e custos via **ERP**.
-- Gestão de conectividade **Sigfox**, **LoRaWAN** e **NB-IoT**.
-- Suporte técnico **nível 2**.
-- Elaboração de documentação técnica para certificação **ISO 9001**.
+- **Gestão de Equipe & Promoção**: Promovido ao cargo de liderança operacional para coordenar o time de produção, gerenciar compras de insumos e planejar cronogramas de fabricação.
+- **Planejamento de Produção (PCP)**: Planejamento e controle de produção de equipamentos **IoT**, gerenciando custos e controle de receitas diretamente no sistema **ERP**.
+- **Melhoria de Processos (ISO 9001)**: Elaboração de manuais técnicos e documentação de processos para auditoria e manutenção da certificação **ISO 9001** na linha de montagem.
+- **KPIs Operacionais**: Criação de métricas de desempenho para acompanhamento diário, **reduzindo tempos de setup e otimizando a produtividade do time de produção**.
+- **Conectividade IoT**: Configuração e gestão de redes de comunicação LPWAN, atuando diretamente com as tecnologias **Sigfox**, **LoRaWAN** e **NB-IoT**.
+- **Suporte Técnico N2**: Suporte a clientes de grande porte, realizando diagnóstico de falhas em campo e investigações de nível 2 em soluções de telemetria.
 
 ---
 
 ### Técnico de Montagem e Manutenção
 **Sigmais IoT** · Nov 2019 – Jan 2021
 
-- Montagem e reparo de **PCBs** com soldagem **SMD**, **PTH** e **LGA**.
-- Manutenção de equipamentos e ferramentas de desenvolvimento.
-- Suporte técnico remoto e visitas técnicas.
-- Validação e habilitação de dispositivos em redes **IoT**.
-- Elaboração de orçamentos e listas de compras.
-- Modelagem e **impressão 3D** para prototipagem.
-- Criação de manuais técnicos e diagramas de processo.
+- **Montagem & Soldagem de PCBs**: Soldagem de alta precisão (**SMD, PTH e LGA**) e montagem de placas de circuito impresso de dispositivos IoT.
+- **Provisionamento & Validação**: Teste de firmware, calibração e habilitação de dispositivos em redes de comunicação **IoT** antes do envio ao cliente final.
+- **Prototipagem Rápida**: Modelagem 3D e **impressão 3D** para desenvolvimento rápido de gabinetes físicos e protótipos mecânicos de novos sensores.
+- **Suporte de Campo & Manutenção**: Atendimento remoto e visitas técnicas para instalação, validação de sinal e reparo preventivo/corretivo de equipamentos.
+- **Documentação de Processo**: Elaboração de diagramas de processo e instruções de montagem para a linha de produção, além de orçamentos e listas de compras de insumos laboratoriais.
 
 ---
 
 ### Professor de Programação e Robótica
 **Ctrl+Play – Serra** · Ago 2018 – Dez 2019
 
-- Condução de aulas de **programação**, **robótica (Arduino)** e desenvolvimento de **games**.
-- Modelagem, **impressão 3D** e manutenção de equipamentos.
-- Desenvolvimento de equipamentos didáticos.
-- Treinamento de professores.
-- Criação de relatórios pedagógicos.
-- Apoio em eventos e apresentações de projetos.
+- **Ensino de Tecnologia**: Condução de aulas de **programação**, **robótica (Arduino)** e desenvolvimento de **games**, além de elaboração de relatórios pedagógicos.
+- **Desenvolvimento de Hardware Didático**: Modelagem 3D, **impressão 3D** e montagem de kits e equipamentos didáticos funcionais, além da manutenção física dos equipamentos.
+- **Treinamento & Eventos**: Capacitação técnica de novos professores do time e apoio na organização de feiras de ciências e apresentações de projetos.
 
 ---
 
 ### Estagiário – Laboratório de Automação
 **Faculdade UCL** · Fev 2018 – Ago 2018
 
-- Suporte a alunos e professores em atividades de laboratório e projetos acadêmicos.
-- Desenvolvimento de plantas didáticas com **PLCs** e **microcontroladores**.
-- Manutenção de equipamentos laboratoriais.
-- Operação de **CNC** e **impressoras 3D**.
-- Participação em feiras, mostras e exposições técnicas.
+- **Projetos Didáticos**: Desenvolvimento de plantas de teste e ensaios didáticos integrando **PLCs** e **microcontroladores**, oferecendo suporte a alunos e professores em laboratório.
+- **Operação & Manutenção**: Operação de impressora 3D e router **CNC**, além de manutenção preventiva e corretiva nos equipamentos laboratoriais.
+- **Exposições Técnicas**: Participação ativa representando o laboratório em feiras, mostras de tecnologia e exposições científicas.
 
 ---
 
@@ -146,13 +119,13 @@ Participação em todas as etapas do desenvolvimento de produtos, desde a concep
 
 ---
 
-## 🚀 Projetos & Atividades Complementares
+## 🚀 Projetos & Contribuições Open Source
 
-- Estação meteorológica **open-source**, com plataforma própria de coleta de dados.
-- Dispositivos inteligentes para **automação residencial** (**MQTT / HTTP**).
-- Desenvolvimento de **APIs** e integrações para **impressoras 3D** com **Home Assistant**.
-- Consultoria em **modelagem e impressão 3D** para uso acadêmico e hospitalar.
-- Suporte técnico e manutenção de **impressoras 3D**.
+- **[CANweaver](https://github.com/gabrielbolzani/CANweaver)**: Ferramenta gráfica desenvolvida em Python e PyQt6 para análise, simulação, injeção de pacotes e engenharia reversa de redes **CAN Bus** (foco em engenharia reversa automotiva).
+- **Estação Meteorológica IoT**: Desenvolvimento de dispositivo de código aberto para monitoramento climático, utilizando plataforma própria para coleta, armazenamento e exibição gráfica de dados históricos.
+- **[Integrações para Impressoras 3D (Home Assistant)](https://github.com/gabrielbolzani/Elegoo_Saturn_3_ultra_HomeAssistant_Integration/tree/main)**: Desenvolvimento de APIs e integrações customizadas dentro do ecossistema open-source do **Home Assistant** para automação, controle e telemetria de impressão 3D.
+- **Automação Residencial**: Criação de dispositivos inteligentes para controle de cargas e sensores ambientais baseados em microcontroladores (ESP32/ESP8266), utilizando protocolos **MQTT** e **HTTP**.
+- **Modelagem & Impressão 3D**: Consultoria técnica e modelagem de peças funcionais para projetos corporativos, de engenharia, acadêmicos, e do setor de saúde (equipamentos médicos e hospitalares).
 
 ---
 
@@ -164,7 +137,6 @@ Participação em todas as etapas do desenvolvimento de produtos, desde a concep
 - Desenvolvimento e produção de soluções avançadas em **impressão 3D**.
 - Prototipagem rápida e fabricação de peças altamente funcionais.
 - Recuperação e restauração de equipamentos obsoletos.
-- Projetos completos de **engenharia eletrônica**, **modelagem 3D** e **integração hardware/software**.
 - Consultoria e treinamentos em **materiais**, **impressão 3D** e **otimização de peças**.
 
 ---
